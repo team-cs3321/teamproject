@@ -1,0 +1,15 @@
+/* 
+Store and Retrieve Partial information for Students in the Current Semester
+- Student's Name
+- Student ID
+- Registered Courses in current semester
+- Exam scores for one Course
+- GPA calulation for the current semester
+
+Two types of Accessing modes
+- Administrator
+  1. Insert
+  2. Update
+  3. Monitor/View
+- User
+  1. View Student data only
